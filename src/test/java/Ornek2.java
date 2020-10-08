@@ -1,3 +1,4 @@
+import com.google.gson.internal.bind.util.ISO8601Utils;
 import org.junit.BeforeClass;
 
 public class Ornek2 {
@@ -9,5 +10,6 @@ public class Ornek2 {
 //4-) sayfada bulunan "Bad Request" linkine tikla
 //5-) sayfada "Link has responded with staus 400 and status text Bad Request" yazisi gozukuyor mu dogrula
 
+    // ishak'dan selamlar
 
 }
