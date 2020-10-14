@@ -82,11 +82,6 @@ public class Ornek1 {
       System.out.println(w.getText());
     }
 
-
-
-
-
-
   }
 
 
