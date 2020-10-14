@@ -1,4 +1,7 @@
+
 import io.github.bonigarcia.wdm.WebDriverManager;
+
+
 import org.junit.BeforeClass;
 import org.junit.Test;
 import org.openqa.selenium.By;
@@ -40,5 +43,6 @@ public class Ornek2 {
 
     }
 
+    // ishak'dan selamlar
 
 }
